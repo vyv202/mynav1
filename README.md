@@ -1,5 +1,7 @@
 # 📚 书签管理系统
 
+> ⚠️ **本项目已停止维护和更新。** 后续版本将发布到新的仓库：[bookmark-nav](https://github.com/deerwan/bookmark-nav)
+
 基于 Cloudflare Pages + D1 + Vue 3 构建的现代化书签管理系统。
 
 ## ✨ 功能特性
